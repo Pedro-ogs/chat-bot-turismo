@@ -1,0 +1,46 @@
+Janeiro | d2
+Natal | d2
+Paris | d2
+Bahia | d2
+Salvador | d2
+Sergipe | d2
+Alagoas | d2
+New York | d2
+Inglaterra | d2
+Pacote | d1
+Hospedagem | d1
+Voo | d1
+Passagem | d1
+Passeio | d1
+Restaurante | d1
+Carro | d3
+Moto | d3
+Ônibus | d3
+Avião | d3
+Helicóptero | d3
+A pé | d3
+De noite | d4
+De dia | d4
+De tarde | d4
+Chovendo | d4
+Ensolarado | d4
+Ventando | d4
+Fazendo frio | d4
+Doente | d4
+Bar | d5
+Supermercado | d5
+Padaria | d5
+Lanchonete | d5
+Farmácia | d5
+Passeio | d6
+Show | d6
+Trilha | d6
+Volta de barco | d6
+Passeio de treno | d6
+Passeio de bike | d6
+Evento de fim de ano na praia | d6
+Débito | d8
+criança | d7
+Cadeirante | d7
+Cego | d7
+Grupo de amigos  | d7

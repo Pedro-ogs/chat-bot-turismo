@@ -1,0 +1,68 @@
+Janeiro
+Fevereiro
+Março
+Abril
+Maio
+Junho
+Julho
+Agosto
+Setembro
+Outubro
+Novembro
+Dezembro
+Natal
+Paris
+Bahia
+Salvador
+Sergipe
+Alagoas
+New York
+Inglaterra
+Pacote
+Hospedagem
+Voo
+Passagem
+Passeio
+Restaurante
+Carro
+Moto
+Ônibus
+Avião
+Helicóptero
+A pé
+De noite
+De dia
+De tarde
+Chovendo
+Ensolarado
+Ventando
+Fazendo frio
+Doente
+Bar
+Supermercado
+Padaria
+Lanchonete
+Farmácia
+Vôo
+Passeio
+Show
+Trilha
+Volta de barco
+Passeio de trenó
+Passeio de bike
+Evento de fim de ano na praia
+Débito
+Crédito
+Boleto
+À vista
+Cheque
+Crediário
+criança
+Cadeirante
+Cego
+Grupo de amigos
+Natal
+Carnaval
+7 de setembro
+Páscoa
+Aniversário da cidade

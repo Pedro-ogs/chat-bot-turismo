@@ -1,0 +1,15 @@
+De noite: Assistir a um filme no cinema, sair para jantar em um restaurante, visitar um bar ou casa noturna, participar de eventos culturais como shows ou peças de teatro, fazer um passeio noturno pela cidade, ter uma noite de jogos em casa com amigos ou familiares.
+
+De dia: Visitar um parque ou jardim, fazer uma caminhada ao ar livre, explorar pontos turísticos da cidade, fazer um piquenique, ir à praia, visitar museus ou exposições, praticar esportes ao ar livre, fazer compras, visitar um café ou restaurante.
+
+De tarde: Fazer um passeio de bicicleta, visitar um mercado local, fazer uma caminhada em trilhas naturais, aproveitar um café ou chá em uma cafeteria, ler um livro em um parque, visitar uma galeria de arte, fazer atividades criativas como pintura ou artesanato.
+
+Chovendo: Ir ao cinema, visitar um museu ou galeria de arte cobertos, fazer compras em shoppings ou lojas cobertas, experimentar uma nova receita em casa, praticar exercícios em uma academia coberta, fazer uma maratona de séries ou filmes em casa.
+
+Ensolarado: Ir à praia, fazer um piquenique em um parque, praticar esportes ao ar livre como futebol, vôlei ou caminhadas, fazer um passeio de barco, visitar jardins botânicos, aproveitar atividades aquáticas como natação ou surfe.
+
+Ventando: Fazer um voo de parapente ou asa-delta, praticar esportes como kitesurf, aproveitar a praia ou um parque com pipas, visitar uma área de observação de ventos ou praticar esportes aquáticos que se beneficiam do vento, como vela ou windsurf.
+
+Fazendo frio: Ir a uma pista de patinação no gelo, visitar museus ou exposições indoor, assistir a uma peça de teatro ou concerto, aproveitar um café ou chá em uma cafeteria aconchegante, fazer atividades em casa como cozinhar, ler livros ou assistir a filmes.
+
+Doente: Descansar e se recuperar, ler livros ou assistir a filmes em casa, ouvir música ou podcasts, fazer atividades relaxantes como meditação ou yoga, aproveitar alimentos saudáveis e nutritivos, consultar um profissional de saúde para orientações específicas sobre como lidar com a doença.
